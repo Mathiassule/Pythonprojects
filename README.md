@@ -1,3 +1,3 @@
-A simple Madlibs code in Python to enhance understanding of f-strings
+Some basic Python projects for beginners to understand the fundamental of the programming language
 #
 #added new line
